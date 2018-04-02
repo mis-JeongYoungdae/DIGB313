@@ -1,0 +1,6 @@
+body { background-color: #efefef;}
+h2 {color: olive;}
+li {display: inline;
+     margin: 0px 20px;}
+#pg {
+	min-width: 870px;}
