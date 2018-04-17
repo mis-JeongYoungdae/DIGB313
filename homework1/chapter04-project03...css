@@ -1,0 +1,30 @@
+table {border: dotted;}
+
+
+
+
+.ll {padding:50px;}
+label { display:"block";}
+figcaption {background-color: white;
+	padding: 5px;
+	position: absolute;
+	text-align: center;
+	width: 500px;}
+.overlayed { position: relative;
+	top:10px;
+	}
+
+div.test { margin: 20px;}
+td.f {padding: 20px;}
+.ssss { width: 205px;
+	margin: 10px;}
+
+.ss {width: 205px;
+	margin: 10px;}
+.sss {width: 205px;
+	margin: 10px;}
+.dd {margin: 30px;}
+.r {padding: 20px;}
+textarea {border-style:dotted;}
+input {border-style:dotted;}
+select {border-style:dotted;}
